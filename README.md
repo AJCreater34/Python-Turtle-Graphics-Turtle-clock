@@ -1,1 +1,1 @@
-A Turtle clock from the Turtle Module Chapter of Advanced Python Book. Made in Python using the Turtle Module. Enjoy :) !
+A Turtle clock from the Turtle Library Chapter of Advanced Python Book. Developed in Python using the Turtle Module. Enjoy :) !!!
